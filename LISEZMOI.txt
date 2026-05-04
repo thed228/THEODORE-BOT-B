@@ -1,0 +1,35 @@
+============================================
+  BOT PREDICTION BACCARAT
+============================================
+
+🎯 STRATEGIES
+-------------
+⭐ PRIORITE 1 : 1ere Carte +5
+  1. 1ere et 2eme carte du Joueur DIFFERENTES
+  2. Banquier n'a PAS la 1ere carte
+  3. Predit la 1ere carte au JEU +5
+
+⭐ PRIORITE 2 : Double Pattern
+  2 memes couleurs → Oppose
+  ❤️→♠️ | ♦️→♣️ | ♠️→❤️ | ♣️→♦️
+
+📦 INSTALLATION
+---------------
+1. Installer Python : https://www.python.org/downloads/
+2. Double-clic sur start.bat (Windows) ou ./start.sh (Mac/Linux)
+
+📋 COMMANDES TELEGRAM
+---------------------
+/start     → Menu
+/startbot  → DEMARRER
+/stopbot   → Arreter
+/stats     → Statistiques
+/last      → Derniers jeux
+/strategy  → Strategies
+/force     → Forcer prediction
+
+📊 CONFIGURATION
+----------------
+Token    : 7686736992:AAEtnOrBjwY3RnaPFs4c4_mk16diAFAtWoI
+Chat ID  : -1002666231649
+Admins   : 6621311234, 7686736992
